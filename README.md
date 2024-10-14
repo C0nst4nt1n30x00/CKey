@@ -1,8 +1,8 @@
-# API Caller Tool
+# Ckey
 
 ## Overview
 
-The **LeakMe** is a Python script designed to interact with various APIs by simplifying the process of making requests. The tool provides a user-friendly command-line interface that allows users to select from a list of supported APIs, input their credentials, and execute API calls easily.
+The **Ckey** is a Python script designed to interact with various APIs by simplifying the process of making requests. The tool provides a user-friendly command-line interface that allows users to select from a list of supported APIs, input their credentials, and execute API calls easily.
 
 ## Supported APIs
 
