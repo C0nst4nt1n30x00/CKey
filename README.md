@@ -36,4 +36,4 @@ This tool currently supports the following APIs:
    ```bash
    git clone https://github.com/psuedoF/CKey.git
    cd CKey
-   chmod +x leakme.py
+   chmod +x Ckey.py
