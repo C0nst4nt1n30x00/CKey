@@ -34,6 +34,6 @@ This tool currently supports the following APIs:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/C0nst4nt1n30x00/CKey.git
+   git clone https://github.com/RyomenSukuna0x00/CKey.git
    cd CKey
    chmod +x Ckey.py
